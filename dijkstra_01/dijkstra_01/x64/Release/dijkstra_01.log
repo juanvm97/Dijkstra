@@ -1,7 +1,7 @@
 ﻿  dijkstra_01.cpp
   Generando código
-  2 of 226 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    12 functions had inline decision re-evaluated but remain unchanged
+  11 of 343 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    28 functions had inline decision re-evaluated but remain unchanged
   Generación de código finalizada
-  dijkstra_01.vcxproj -> C:\Users\juanv\Documents\Dijkstra\dijkstra_01\x64\Release\dijkstra_01.exe
+  dijkstra_01.vcxproj -> C:\Users\SIS01\Downloads\Dijkstra-master (1)\Dijkstra-master\dijkstra_01\x64\Release\dijkstra_01.exe

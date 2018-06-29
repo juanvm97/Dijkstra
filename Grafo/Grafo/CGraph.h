@@ -15,6 +15,10 @@ public:
 	CGraph();
 	bool InsNode(N x, N y, N data);
 	bool InsEdge(Node *A, Node *B);
+	bool Revisado(bool * n, int & i, int size);
+	void Marcado(Node * A, bool * n, int id_isla);
+	void MarcarIslas();
+	void PrintIslas();
 	void Print();
 
 	~CGraph();

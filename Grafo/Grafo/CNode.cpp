@@ -8,6 +8,7 @@ CNode<G>::CNode(N x, N y, N data)
 	m_x = x;
 	m_y = y;
 	m_data = data;
+	m_isla = -1;
 }
 
 template <class G>

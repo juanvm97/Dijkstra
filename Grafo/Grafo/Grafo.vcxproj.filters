@@ -42,15 +42,4 @@
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\Downloads\Graph (1)\nodes_20_graph_3.dat">
-      <Filter>Archivos de origen</Filter>
-    </None>
-    <None Include="..\..\..\..\Downloads\Graph (1)\nodes_10000_graph_1.dat">
-      <Filter>Archivos de origen</Filter>
-    </None>
-    <None Include="..\..\..\..\Downloads\Dijkstra-master\Dijkstra-master\dijkstra_01\dijkstra_01\nodes_15_graph_1.dat">
-      <Filter>Archivos de origen</Filter>
-    </None>
-  </ItemGroup>
 </Project>

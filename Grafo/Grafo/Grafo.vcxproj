@@ -163,11 +163,6 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\Downloads\Dijkstra-master\Dijkstra-master\dijkstra_01\dijkstra_01\nodes_15_graph_1.dat" />
-    <None Include="..\..\..\..\Downloads\Graph (1)\nodes_10000_graph_1.dat" />
-    <None Include="..\..\..\..\Downloads\Graph (1)\nodes_20_graph_3.dat" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

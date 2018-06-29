@@ -10,6 +10,7 @@ public:
 	N m_x;
 	N m_y;
 	N m_data;
+	N m_isla;
 	std::vector<CNode*> m_relation;
 
 	CNode(N x, N y, N data);

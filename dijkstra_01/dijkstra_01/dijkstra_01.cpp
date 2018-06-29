@@ -18,7 +18,7 @@ public:
 
 
 };
-
+/*
 template<class T>
 class CSA {
 public:
@@ -40,6 +40,37 @@ public:
 	}
 
 
+};*/
+
+template<class T> 
+class CSA{
+public:
+	set<T> set;
+	bool find(T x){
+		if(set.find(x) != set.end())
+			return true;
+		else 
+			return false;
+	}
+	
+	
+	bool ins(T x){
+		if(find(x))
+			return 0;
+		else{
+		set.insert(x);
+		return 1;}
+	}
+	bool rem(T x){
+		if(!find(x))
+			return 0;
+		else{
+		set.erase(x);
+		return 1;}
+	}
+	
+	
+	
 };
 
 template<class T, unsigned long z >

@@ -1,0 +1,6 @@
+﻿  Grafo.cpp
+c:\users\sis01\source\repos\grafo\grafo\grafo.cpp(85): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sis01\source\repos\grafo\grafo\grafo.cpp(88): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sis01\source\repos\grafo\grafo\grafo.cpp(100): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sis01\source\repos\grafo\grafo\grafo.cpp(103): warning C4018: '<': no coinciden signed/unsigned
+  Grafo.vcxproj -> C:\Users\SIS01\source\repos\Grafo\Debug\Grafo.exe

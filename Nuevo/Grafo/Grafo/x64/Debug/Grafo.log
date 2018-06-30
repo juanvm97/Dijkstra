@@ -1,5 +1,5 @@
 ﻿  CGraph.cpp
-c:\users\sis01\downloads\dijkstra-master (1)\dijkstra-master\grafo\grafo\cgraph.cpp(61): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
-  c:\users\sis01\downloads\dijkstra-master (1)\dijkstra-master\grafo\grafo\cgraph.cpp(58): note: durante la compilación de la función miembro de plantilla clase de 'void CGraph<int>::MarcarIslas(void)'
-  c:\users\sis01\downloads\dijkstra-master (1)\dijkstra-master\grafo\grafo\cgraph.cpp(161): note: vea la referencia a la creación de instancias de plantilla clase de 'CGraph<int>' que se está compilando
-  Grafo.vcxproj -> C:\Users\SIS01\Downloads\Dijkstra-master (1)\Dijkstra-master\Grafo\x64\Debug\Grafo.exe
+c:\users\juanv\documents\tfina\dijkstra\nuevo\grafo\grafo\cgraph.cpp(61): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  c:\users\juanv\documents\tfina\dijkstra\nuevo\grafo\grafo\cgraph.cpp(58): note: durante la compilación de la función miembro de plantilla clase de 'void CGraph<int>::MarcarIslas(void)'
+  c:\users\juanv\documents\tfina\dijkstra\nuevo\grafo\grafo\cgraph.cpp(160): note: vea la referencia a la creación de instancias de plantilla clase de 'CGraph<int>' que se está compilando
+  Grafo.vcxproj -> C:\Users\juanv\Documents\tfina\Dijkstra\Nuevo\Grafo\x64\Debug\Grafo.exe

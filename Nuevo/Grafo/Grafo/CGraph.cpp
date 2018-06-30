@@ -67,7 +67,6 @@ void CGraph<N>::MarcarIslas()
 
 	while (Revisado(n, i, size))
 	{
-		cout << "i es: " << i << endl;
 		n[i] = 1;
 		m_nodes[i]->m_isla = id_isla;
 
@@ -151,6 +150,12 @@ void CGraph<N>::sectores()
 			break;
 		}
 	}
+}
+
+template<class N>
+bool CGraph<N>::DIJKSTRA()
+{
+	return false;
 }
 
 template <class N>
